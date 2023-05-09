@@ -1,8 +1,6 @@
 
 process counter{
 
-   //memory = { samplefile.size() < 100.B ? 1.GB : 5.GB }
-   
    debug true
 
    input:
